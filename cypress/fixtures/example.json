@@ -1,0 +1,56 @@
+{
+  "articles": [
+    {
+      "slug": "Creeaza-o-implementare-noua-1",
+      "title": "Creeaza o implementare noua",
+      "description": "alatura-te comunitatii creand o implementare noua",
+      "body": "Impartaseste cunostintele  si imputerniceste comunitatea creand o implementare noua",
+      "tagList": ["implementari"],
+      "createdAt": "2021-11-24T12:11:08.212Z",
+      "updatedAt": "2021-11-24T12:11:08.212Z",
+      "favorited": false,
+      "favoritesCount": 2039,
+      "author": {
+        "username": "Bogdan",
+        "bio": null,
+        "image": "https://api.realworld.io/images/demo-avatar.png",
+        "following": false
+      }
+    },
+    {
+      "slug": "Explore-implementations-1",
+      "title": "Exploreaza implementarile",
+      "description": "exploreaza implementarile creade de utilizatorii RealWorld",
+      "body": "Peste 100 de implementari au fost create",
+      "tagList": ["codebaseShow", "implementations"],
+      "createdAt": "2021-11-24T12:11:07.952Z",
+      "updatedAt": "2021-11-24T12:11:07.952Z",
+      "favorited": false,
+      "favoritesCount": 3333,
+      "author": {
+        "username": "Stt",
+        "bio": null,
+        "image": "https://api.realworld.io/images/demo-avatar.png",
+        "following": false
+      }
+    },
+    {
+      "slug": "Welcome-to-RealWorld-project-1",
+      "title": "Slava Ucraina",
+      "description": "Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+      "body": "See how the exact same Medium.com clone (called Conduit) is built using different frontends and backends. Yes, you can mix and match them, because they all adhere to the same API spec",
+      "tagList": ["welcome", "introduction"],
+      "createdAt": "2021-11-24T12:11:07.557Z",
+      "updatedAt": "2021-11-24T12:11:07.557Z",
+      "favorited": false,
+      "favoritesCount": 850,
+      "author": {
+        "username": "Gerome",
+        "bio": null,
+        "image": "https://api.realworld.io/images/demo-avatar.png",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 3
+}
